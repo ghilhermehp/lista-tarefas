@@ -1,0 +1,3 @@
+Estudar Fase 3 - Redes
+Revisar script de backup
+Praticar grep
